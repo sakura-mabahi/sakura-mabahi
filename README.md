@@ -1,3 +1,20 @@
+
+
+
+![Banner](https://github.com/sakura-mabahi/sakura-mabahi/assets/156149579/ad90578e-2261-4f85-9f88-92112be4d832)
+
+<div id="header" align="center">
+  
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariaisabel-qa/)
+
+<div id="header" align="center">
+  
+![](https://komarev.com/ghpvc/?username=sakura-mabahi-qa&color=blueviolet&style=flat-square)
+
+
+---
+<div id="header" align="left">
+
 ## Hola, mi nombre es Maria Isabel👋
 
 Soy QA Engineer y recientemente finalicé un bootcamp en Tripleten. 
@@ -5,6 +22,8 @@ Tengo conocimientos prácticos y teóricos en aseguramiento de la calidad y prue
 
 Estoy buscando oportunidades para aplicar mis habilidades en un rol de Ingeniero QA Junior. 
 Si crees que sería un buen aporte para tu equipo, ¡no dudes en contactarme!
+
+
 
 ## Skills ⭐
 
@@ -37,21 +56,30 @@ Si crees que sería un buen aporte para tu equipo, ¡no dudes en contactarme!
 - **Análisis de requisitos y diseño de pruebas** 🔍📐: Puedo analizar los requisitos del software y diseñar pruebas para garantizar que se cumplan esos requisitos.
 - **Desarrollo de software** 💾: Además de mis habilidades de prueba, también tengo conocimientos básicos sobre en el desarrollo de software.
 
+## Mis estadísticas 📊
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sakura-mabahi&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakura-mabahi&layout=compact&theme=vision-friendly-dark)](https://github.com/sakura-mabahi/github-readme-stats)
+
 ## Contacto 📫
   
-
 <a href="mailto:sakura.mabahi@gmail.com">
     <img src="https://img.shields.io/badge/Correo-sakura.mabahi@gmail.com-44a3f1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010" alt="Email">
 </a>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Maria_Isabel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/mariaisabel-qa)
 
-<!--
-- Correo: sakura.mabahi@gmail.com
-- LinkedIn: linkedin.com/in/mariaisabel-qa
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariaisabel-qa/)
-[![Email](https://img.shields.io/badge/Correo-sakura.mabahi@gmail.com-44a3f1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](sakura.mabahi@gmail.com)</br>
--->
+
+</br>
+</br>
+</br>
+
+<div id="header" align="left">
+  
+   [![My Skills](https://skillicons.dev/icons?i=selenium,pycharm,python,javascript,androidstudio,postman,figma,github,git)](https://skillicons.dev)
+
+</div>
+
 
 
 
@@ -65,19 +93,4 @@ Si crees que sería un buen aporte para tu equipo, ¡no dudes en contactarme!
 ![Cygwin](https://img.shields.io/badge/Cygwin-228B22?style=for-the-badge&logo=Cygwin&logoColor=white&labelColor=101010)</br>
 ![DevTools](https://img.shields.io/badge/DevTools-808080?style=for-the-badge&logo=DevTools&logoColor=white&labelColor=101010)</br>
 ![REST](https://img.shields.io/badge/REST-2E8B57?style=for-the-badge&logo=REST&logoColor=white&labelColor=101010)</br>
--->
-
-<!--
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white&labelColor=101010)</br>
-![PyCharm](https://img.shields.io/badge/PyCharm-1D3A40?style=for-the-badge&logo=pyCharm&logoColor=white&labelColor=101010)</br>
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)</br>
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white&labelColor=101010)</br>
-![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)</br>
-![Postman](https://img.shields.io/badge/Postman-EF5B25?style=for-the-badge&logo=Postman&logoColor=white&labelColor=101010)</br>
-![Charles](https://img.shields.io/badge/Charles-00008B?style=for-the-badge&logo=Charles&logoColor=white&labelColor=101010)</br>
-![JSON](https://img.shields.io/badge/JSON-FF8C00?style=for-the-badge&logo=JSON&logoColor=white&labelColor=101010)</br>
-![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=JIRA&logoColor=white&labelColor=101010)</br>
-![Figma](https://img.shields.io/badge/Figma-800080?style=for-the-badge&logo=Figma&logoColor=white&labelColor=101010)</br>
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white&labelColor=101010)</br>
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white&labelColor=101010)</br>
 -->
