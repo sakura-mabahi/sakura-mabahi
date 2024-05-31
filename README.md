@@ -1,7 +1,5 @@
 
-
-
-![Banner](https://github.com/sakura-mabahi/sakura-mabahi/assets/156149579/ad90578e-2261-4f85-9f88-92112be4d832)
+![Banner](https://github.com/sakura-mabahi/sakura-mabahi/assets/156149579/603c0ee7-04b8-4673-b641-cca874ecd5fa)
 
 <div id="header" align="center">
   
@@ -27,18 +25,18 @@ Si crees que sería un buen aporte para tu equipo, ¡no dudes en contactarme!
 
 ## Skills ⭐
 
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white&labelColor=101010)
-![PyCharm](https://img.shields.io/badge/PyCharm-1D3A40?style=for-the-badge&logo=pyCharm&logoColor=white&labelColor=101010)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white&labelColor=101010)
-![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)</br>
-![Postman](https://img.shields.io/badge/Postman-EF5B25?style=for-the-badge&logo=Postman&logoColor=white&labelColor=101010)
-![Charles](https://img.shields.io/badge/Charles-00008B?style=for-the-badge&logo=Charles&logoColor=white&labelColor=101010)
-![JSON](https://img.shields.io/badge/JSON-FF8C00?style=for-the-badge&logo=JSON&logoColor=white&labelColor=101010)
-![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=JIRA&logoColor=white&labelColor=101010)
-![Figma](https://img.shields.io/badge/Figma-800080?style=for-the-badge&logo=Figma&logoColor=white&labelColor=101010)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white&labelColor=101010)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white&labelColor=101010)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white&labelColor=010101)
+![PyCharm](https://img.shields.io/badge/PyCharm-1D3A40?style=for-the-badge&logo=pyCharm&logoColor=white&labelColor=010101)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=010101)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white&labelColor=010101)
+![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=010101)</br>
+![Postman](https://img.shields.io/badge/Postman-EF5B25?style=for-the-badge&logo=Postman&logoColor=white&labelColor=010101)
+![Charles](https://img.shields.io/badge/Charles-00008B?style=for-the-badge&logo=Charles&logoColor=white&labelColor=010101)
+![JSON](https://img.shields.io/badge/JSON-FF8C00?style=for-the-badge&logo=JSON&logoColor=white&labelColor=010101)
+![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=JIRA&logoColor=white&labelColor=010101)
+![Figma](https://img.shields.io/badge/Figma-800080?style=for-the-badge&logo=Figma&logoColor=white&labelColor=010101)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white&labelColor=010101)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white&labelColor=010101)
 
 ## Habilidades técnicas 🛠️
 
