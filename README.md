@@ -1,6 +1,5 @@
 ## Hola, mi nombre es Maria Isabel👋
 
-
 Soy QA Engineer y recientemente finalicé un bootcamp en Tripleten. 
 Tengo conocimientos prácticos y teóricos en aseguramiento de la calidad y pruebas automatizadas. 
 
@@ -40,12 +39,18 @@ Si crees que sería un buen aporte para tu equipo, ¡no dudes en contactarme!
 
 ## Contacto 📫
   
-[![Email](https://img.shields.io/badge/Correo-sakura.mabahi@gmail.com-44a3f1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](sakura.mabahi@email.com)</br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Maria_Isabel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](www.linkedin.com/in/mariaisabel-qa)
+
+<a href="mailto:sakura.mabahi@gmail.com">
+    <img src="https://img.shields.io/badge/Correo-sakura.mabahi@gmail.com-44a3f1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010" alt="Email">
+</a>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Maria_Isabel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/mariaisabel-qa)
 
 <!--
 - Correo: sakura.mabahi@gmail.com
 - LinkedIn: linkedin.com/in/mariaisabel-qa
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariaisabel-qa/)
+[![Email](https://img.shields.io/badge/Correo-sakura.mabahi@gmail.com-44a3f1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](sakura.mabahi@gmail.com)</br>
 -->
 
 
